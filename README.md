@@ -15,7 +15,6 @@
     </a>
   </div>
   ![Profile views](https://komarev.com/ghpvc/?username=tempoo04&style=plastic&color=blue)
-  [![GitHub followers](https://img.shields.io/github/followers/tempoo04.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tempoo04?tab=followers)
 </div>
 
 ---
