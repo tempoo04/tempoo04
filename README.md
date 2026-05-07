@@ -7,16 +7,16 @@
     <a href="https://www.linkedin.com/in/turgut-nasrullayev-735047158/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    
-    </div>
-    <br>
-
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&width=500&lines=AI+Researcher;Physics+%2B+Data+%2B+Code+%E2%9A%A1;Building+practical+stuff+from+data%2C+models+%26+ideas)](https://git.io/typing-svg)
-    ![Profile views](https://komarev.com/ghpvc/?username=tempoo04&style=plastic&color=blue)
-    [![GitHub followers](https://img.shields.io/github/followers/tempoo04.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tempoo04?tab=followers)
-
+  </div>
+  <br>
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&width=500&lines=AI+Researcher;Physics+%2B+Data+%2B+Code+%E2%9A%A1;Building+practical+stuff+from+data%2C+models+%26+ideas"/>
+    </a>
+  </div>
+  ![Profile views](https://komarev.com/ghpvc/?username=tempoo04&style=plastic&color=blue)
+  [![GitHub followers](https://img.shields.io/github/followers/tempoo04.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tempoo04?tab=followers)
 </div>
-
 
 ---
 
