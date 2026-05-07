@@ -70,9 +70,3 @@ When I'm not training models, I'm experimenting with LLM agents, RAG pipelines, 
   <img src="https://img.shields.io/badge/Data%20Science%20Specialization-IBM-000000?style=flat&logo=ibm&logoColor=white&labelColor=052FAD"/>
 </div>
 
----
-
-#### 📄 Publication
-
-**Influence of electron beam irradiation on nanoscale adhesion during colloidal probe experiments inside the SEM**  
-*Journal of Vacuum Science & Technology B* · [DOI: 10.1116/6.0002764](https://doi.org/10.1116/6.0002764) · July 2023
