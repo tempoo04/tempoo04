@@ -1,22 +1,6 @@
 <h1 align="center">
-  Hey, I'm Turgut 👋
+  Hey, Turgut here 👋
 </h1>
-
-<div align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/turgut-nasrullayev-735047158/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <br>
-  <div align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&width=300&lines=AI+Researcher;Physics+%2B+Data+%2B+Code+%E2%9A%A1;Building+practical+stuff+from+data%2C+models+%26+ideas"/>
-    </a>
-  </div>
-</div>
-
----
 
 #### 👨‍💻 About Me
 
