@@ -4,8 +4,6 @@
 
 #### 👨‍💻 About Me
 
-> *« Physics taught me how things work. Data science taught me how to use that. »*
-
 I'm an **AI Researcher and Physics-Informed Data Scientist** — with a background that started in nanoscale physics labs and landed in production-grade deep learning systems.
 
 Studied **Engineering Physics**, which means I care about *why* models work, not just *that* they work.
